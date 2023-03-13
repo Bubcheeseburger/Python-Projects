@@ -1,5 +1,5 @@
-# Ali Khan (pnv4bs)
-
+# This programs takes in a list of movies that have their name, gross revenue, year, rating, and review numbers. With 
+# this information it can then find averages for a category and what movies have a higher rating that a chosen one.
 
 def get_name(movie):
     """
