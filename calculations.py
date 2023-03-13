@@ -1,3 +1,6 @@
+# This program is a basic calculator which can return the final value, the expression that was just done, and redo the
+# operation that was just performed.
+
 value = 0  # The first value in the equation
 operation = ""  # This is the operation that will be happening.
 othervalue = 0  # This is the second value in the equation.
