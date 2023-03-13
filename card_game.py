@@ -1,3 +1,5 @@
+# This programs simply returns the hard value and soft value of hand according to blackjack standards
+
 def card_to_value(card):
     """
     This function takes the inputted card and gets its value
