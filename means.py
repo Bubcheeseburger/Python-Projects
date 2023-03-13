@@ -1,4 +1,5 @@
-# Ali Khan (pnv4bs)
+# This progam takes in a list of a list, where each list has the same number of items. These lists together represent
+# a data table. Them means of the whole table can be taken, each row, or each column
 
 def mean_all(table):
     """
