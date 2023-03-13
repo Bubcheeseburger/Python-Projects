@@ -1,3 +1,6 @@
+# This program asks the user numerous questions about a player in a basketball game and return a statement that 
+# gives that player's statistics
+
 player = input("What player would you like to calculate statistics for? ")
 team = input("What team was the opponent in the game you would like to calculate statistics for? ")
 three = input("How many 3's did " + player + " attempt this game? ")
