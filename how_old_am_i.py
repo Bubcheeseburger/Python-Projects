@@ -1,3 +1,5 @@
+# The basic function of this code to return the age of the user based on the inputs given to the questions below.
+
 first_number = input("Pick a number between 1 and 10: ")
 new_number = ((int(first_number) * 2) + 5) * 50
 birthday = input("If you've already had a birthday this year, enter 1772. Otherwise, enter 1771: ")
