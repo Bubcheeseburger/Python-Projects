@@ -1,3 +1,6 @@
+# The programs determines how much an indivudual is fined based on how fast they were going and where. It also
+# demerits the individual based on their speed comapared with the limit
+
 def fine(speed_limit, my_speed, zone="None"):
     """
     This function determines how much the driver will be fined
@@ -21,8 +24,6 @@ def fine(speed_limit, my_speed, zone="None"):
     return charge
 
 
-#  charge = (int(my_speed) - int(speed_limit)) * 7
-#  charge = ((int(my_speed) - int(speed_limit)) * 8) + 200
 def demerits(speed_limit, my_speed):
     """
     What this function seeks to obtain is how many demerit points the driver gets based on their speed
