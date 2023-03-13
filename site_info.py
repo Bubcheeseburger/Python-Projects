@@ -1,4 +1,7 @@
-# Ali Khan (pnv4bs)
+# This program grabs information from a site provided by UVA in which classes are listed along with other important
+# information. The classes are sorted by their department, so the list will only be comprise of classes from the
+# inputted department. One function finds all classes taught by an instructor in a department while the other function
+# checks to see if two classes do not have conflicting time frames as well as an additional condition of max capacity
 
 import urllib.request
 
