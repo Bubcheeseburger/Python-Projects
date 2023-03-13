@@ -1,7 +1,7 @@
-# Ali Khan (pnv4bs)
+# This program takes in a dictionary of states with their electoral votes and then declares the winner of the state
+# depending of which candidate has the most votes. The winner of the election is outputted when calling "def winner"
 
 results = {}
-
 
 def add_state(name, votes):
     """
