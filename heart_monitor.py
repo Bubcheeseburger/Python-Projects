@@ -1,3 +1,6 @@
+# This program tells the user what the heart rate max is for their age as well as seeing if their heart rate is within
+# a healthy range based on current heart rate and age.
+
 def gellish2(age):
     # The purpose of this function is the approximate Heart-Rate Max through age
     hrmax = 191.5 - (0.007 * (age ** 2))  # Equation for HR Max
