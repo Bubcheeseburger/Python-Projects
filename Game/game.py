@@ -1,4 +1,4 @@
-# Ali Khan (pnv4bs) and David Nu Nu (ffz3qb)
+# This implements a game engine designed by UVA all credit for it is given with the uvage.py project file
 
 # The character has basic mobility, with walking and jumping. He is also able to attack as well. This will be used in
 # order to defeat the enemy. The enemy is able to attack the player and depleted his hearts, once all four are gone then
@@ -26,7 +26,7 @@
 # Hit Boxes: There are 4 types of hit boxes that are made invisible once the game starts: The character, the enemy, the
 # character's attack, and the enemy's attack. When attack overlaps with the opposing person, they are knocked back
 
-import GamerMode.uvage as uvage
+import uvage as uvage
 import random
 
 # Global Numbers
