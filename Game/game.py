@@ -26,7 +26,7 @@
 # Hit Boxes: There are 4 types of hit boxes that are made invisible once the game starts: The character, the enemy, the
 # character's attack, and the enemy's attack. When attack overlaps with the opposing person, they are knocked back
 
-import uvage as uvage
+import uvage
 import random
 
 # Global Numbers
